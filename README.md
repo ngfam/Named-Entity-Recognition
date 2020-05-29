@@ -2,7 +2,7 @@
 
 This model was implemented based on the algorithms described in: https://bit.ly/2Mnmv0F
 
-This time the training data was fairly small, so emplementing Trie does not seem to be needed (especially with the alphabet size of Vietnamese).
+This time the training data was fairly small, so implementing Trie does not seem to be needed (especially with the alphabet size of Vietnamese).
 
 ## Statistical Review
 
